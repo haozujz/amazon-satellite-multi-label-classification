@@ -6,7 +6,8 @@ https://colab.research.google.com/drive/1RiLQkLJBDJf2sUFcIGyWct2E5FE5mNxT?usp=sh
 EfficientNet, transfer learning  
 https://colab.research.google.com/drive/1ojlZrv92zM3OhVUrz4X29kafzO206Fo-?usp=sharing
 
-Multi-label classification of Amazon satellite images.
+Multi-label classification of Amazon satellite images.  
+Note: Some plots may only render via the above link but not on github.
 
 ## Potential updates:
 - include supervised dim reduction, eg. LDA (linear)
