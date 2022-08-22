@@ -1,4 +1,4 @@
-# Amazon satellite images - multi-label classification
+# Amazon satellite imagery - multi-label classification
 
 Custom model  
 https://colab.research.google.com/drive/1RiLQkLJBDJf2sUFcIGyWct2E5FE5mNxT?usp=sharing
