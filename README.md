@@ -32,7 +32,7 @@ Note: 3-Dimensional plots will only render via the above links but not on github
 
 ## Snippet
 
-Unsupervised learning - clustering - dimensionality reduction:
+Unsupervised learning - clustering - dimensionality reduction:  
 Lack of distinction between clusters visualizes the difficulty of this classsification task.
 
 ![ul3d](https://user-images.githubusercontent.com/79493809/230720566-eb547597-1093-44f6-98f2-50615994aa57.png)
