@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1ojlZrv92zM3OhVUrz4X29kafzO206Fo-?usp=sh
 Multi-label classification of Amazon satellite images.  
 Note: 3-Dimensional plots will only render via the above links but not on github.
 
-## Potential updates:
+## Potential updates
 - include supervised dim reduction, eg. LDA (linear)
 - explore libraries that allow plotting images onto 3d space or display image on mousehover
 
@@ -30,7 +30,7 @@ Note: 3-Dimensional plots will only render via the above links but not on github
 - try differing learnings rates for each individual layer in transfer learning
 - can try train atmospheric and land usage/cover classes seperately
 
-## Snippet:
+## Snippet
 
 Unsupervised learning - clustering - dimensionality reduction:
 Lack of distinction between clusters visualizes the difficulty of this classsification task.
